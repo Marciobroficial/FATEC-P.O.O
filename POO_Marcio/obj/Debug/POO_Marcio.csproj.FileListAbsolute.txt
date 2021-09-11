@@ -12,3 +12,7 @@ C:\Meus Repositórios\FATEC\4º Semestre\P.O.O\POO_Marcio\obj\Debug\POO_Marcio.c
 C:\Meus Repositórios\FATEC\4º Semestre\P.O.O\POO_Marcio\obj\Debug\POO_Marcio.csproj.CoreCompileInputs.cache
 C:\Meus Repositórios\FATEC\4º Semestre\P.O.O\POO_Marcio\obj\Debug\POO_Marcio.exe
 C:\Meus Repositórios\FATEC\4º Semestre\P.O.O\POO_Marcio\obj\Debug\POO_Marcio.pdb
+C:\REPOSITORIOS\FATEC\4ª semestre\FATEC-P.O.O\POO_Marcio\obj\Debug\POO_Marcio.csproj.AssemblyReference.cache
+C:\REPOSITORIOS\FATEC\4ª semestre\FATEC-P.O.O\POO_Marcio\obj\Debug\POO_Marcio.csproj.CoreCompileInputs.cache
+C:\REPOSITORIOS\FATEC\4ª semestre\FATEC-P.O.O\POO_Marcio\obj\Debug\POO_Marcio.exe
+C:\REPOSITORIOS\FATEC\4ª semestre\FATEC-P.O.O\POO_Marcio\obj\Debug\POO_Marcio.pdb
