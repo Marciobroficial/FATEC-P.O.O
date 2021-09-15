@@ -1,0 +1,21 @@
+C:\Users\Windows\OneDrive\Documentos\FATEC MATERIAS\4º MÓDULO\PROGRAMAÇÃO ORIENTADA - PROF GIOVANA,\Construtor Aluno\Construtor Aluno\bin\Debug\Construtor Aluno.exe.config
+C:\Users\Windows\OneDrive\Documentos\FATEC MATERIAS\4º MÓDULO\PROGRAMAÇÃO ORIENTADA - PROF GIOVANA,\Construtor Aluno\Construtor Aluno\bin\Debug\Construtor Aluno.exe
+C:\Users\Windows\OneDrive\Documentos\FATEC MATERIAS\4º MÓDULO\PROGRAMAÇÃO ORIENTADA - PROF GIOVANA,\Construtor Aluno\Construtor Aluno\bin\Debug\Construtor Aluno.pdb
+C:\Users\Windows\OneDrive\Documentos\FATEC MATERIAS\4º MÓDULO\PROGRAMAÇÃO ORIENTADA - PROF GIOVANA,\Construtor Aluno\Construtor Aluno\obj\Debug\Construtor Aluno.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Documentos\FATEC MATERIAS\4º MÓDULO\PROGRAMAÇÃO ORIENTADA - PROF GIOVANA,\Construtor Aluno\Construtor Aluno\obj\Debug\Construtor Aluno.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Documentos\FATEC MATERIAS\4º MÓDULO\PROGRAMAÇÃO ORIENTADA - PROF GIOVANA,\Construtor Aluno\Construtor Aluno\obj\Debug\Construtor Aluno.exe
+C:\Users\Windows\OneDrive\Documentos\FATEC MATERIAS\4º MÓDULO\PROGRAMAÇÃO ORIENTADA - PROF GIOVANA,\Construtor Aluno\Construtor Aluno\obj\Debug\Construtor Aluno.pdb
+C:\Users\marci\OneDrive\Documentos\_Fatec\4º Semestre\P.O.O\Construtor Aluno\Construtor_Aluno\Construtor Aluno\Construtor Aluno\bin\Debug\Construtor Aluno.exe.config
+C:\Users\marci\OneDrive\Documentos\_Fatec\4º Semestre\P.O.O\Construtor Aluno\Construtor_Aluno\Construtor Aluno\Construtor Aluno\bin\Debug\Construtor Aluno.exe
+C:\Users\marci\OneDrive\Documentos\_Fatec\4º Semestre\P.O.O\Construtor Aluno\Construtor_Aluno\Construtor Aluno\Construtor Aluno\bin\Debug\Construtor Aluno.pdb
+C:\Users\marci\OneDrive\Documentos\_Fatec\4º Semestre\P.O.O\Construtor Aluno\Construtor_Aluno\Construtor Aluno\Construtor Aluno\obj\Debug\Construtor Aluno.csproj.AssemblyReference.cache
+C:\Users\marci\OneDrive\Documentos\_Fatec\4º Semestre\P.O.O\Construtor Aluno\Construtor_Aluno\Construtor Aluno\Construtor Aluno\obj\Debug\Construtor Aluno.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Documentos\_Fatec\4º Semestre\P.O.O\Construtor Aluno\Construtor_Aluno\Construtor Aluno\Construtor Aluno\obj\Debug\Construtor Aluno.exe
+C:\Users\marci\OneDrive\Documentos\_Fatec\4º Semestre\P.O.O\Construtor Aluno\Construtor_Aluno\Construtor Aluno\Construtor Aluno\obj\Debug\Construtor Aluno.pdb
+C:\Users\marci\OneDrive\Documentos\_Fatec\4º Semestre\Construtor_Aluno\Construtor_Aluno\Construtor Aluno\bin\Debug\Construtor Aluno.exe.config
+C:\Users\marci\OneDrive\Documentos\_Fatec\4º Semestre\Construtor_Aluno\Construtor_Aluno\Construtor Aluno\bin\Debug\Construtor Aluno.exe
+C:\Users\marci\OneDrive\Documentos\_Fatec\4º Semestre\Construtor_Aluno\Construtor_Aluno\Construtor Aluno\bin\Debug\Construtor Aluno.pdb
+C:\Users\marci\OneDrive\Documentos\_Fatec\4º Semestre\Construtor_Aluno\Construtor_Aluno\Construtor Aluno\obj\Debug\Construtor Aluno.csproj.AssemblyReference.cache
+C:\Users\marci\OneDrive\Documentos\_Fatec\4º Semestre\Construtor_Aluno\Construtor_Aluno\Construtor Aluno\obj\Debug\Construtor Aluno.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Documentos\_Fatec\4º Semestre\Construtor_Aluno\Construtor_Aluno\Construtor Aluno\obj\Debug\Construtor Aluno.exe
+C:\Users\marci\OneDrive\Documentos\_Fatec\4º Semestre\Construtor_Aluno\Construtor_Aluno\Construtor Aluno\obj\Debug\Construtor Aluno.pdb
